@@ -11,9 +11,9 @@
       "imagem":"TODO"
     }
     "FORA":{
-    "nome":"Clube do Remo",
-    "forca":3.5,
-    "imagem":"TODO"
+      "nome":"Clube do Remo",
+      "forca":3.5,
+     "imagem":"TODO"
   }
   }
 ]
