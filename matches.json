@@ -1,1 +1,19 @@
-
+[
+  {
+    "descricao":"Campeonato Paraense de futebol 2022",
+    "local": {
+      "nome":"Banpará Curuzu",
+      "imagem":"TODO"
+    },
+    "CASA": {
+      "nome":"Paysandu",
+      "forca": 4,
+      "imagem":"TODO"
+    }
+    "fora":{
+    "nome":"Clube do Remo",
+    "forca":3.5,
+    "imagem":"TODO"
+  }
+  }
+]
